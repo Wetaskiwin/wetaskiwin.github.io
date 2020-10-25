@@ -1,5 +1,5 @@
 h1{
-background-color:#e6faff;
+background-color:#00000;
 color: #44AF90;
 font-size:40px;
 }
@@ -10,6 +10,6 @@ font-size:25px;
 }
 
 
-p.fancy{color:#0099ff;
+p.fancy{color:##339933;
   font-style: oblique;
 }
