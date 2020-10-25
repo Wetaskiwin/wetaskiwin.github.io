@@ -1,8 +1,15 @@
 h1{
 background-color:#0000;
 color: #44AF90;
+font-size:40px;
+}
+h2{
+background-color:#0000;
+color:	#6600ff;
 font-size:25px;
 }
+
+
 p.fancy{color:#666;
   font-style: oblique;
 }
